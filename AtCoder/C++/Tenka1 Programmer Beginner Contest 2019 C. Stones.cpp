@@ -1,4 +1,5 @@
-//CODE FESTIVAL 2017 qual C
+//Tenka1 Programmer Beginner Contest 2019
+//C. Stones
 #include "bits/stdc++.h"
 using namespace std;
 typedef long long ll;
